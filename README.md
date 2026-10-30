@@ -77,7 +77,9 @@ Convert the source range to an Excel Table using **Ctrl + T** and name it `Sales
 Column names and business definitions may differ in your dataset. Confirm whether Sales is before or after discount and how Profit is calculated before interpreting results.
 
 ---
+## 🎥 Video Demonstration
 
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](https://drive.google.com/file/d/1FvaRePRLKLKudx00dU6BR1QMPsuATuBr/view?usp=sharing)
 ## 🧮 Key Excel Implementations
 
 ### 1. Date & Time Analysis
